@@ -1,0 +1,128 @@
+
+@media (max-width: 575.98px) {
+   
+            /* header start */
+	.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+}
+/* header end */
+.slider{
+	padding: 0px 0px 71px 0px;
+}
+.carind{
+	bottom: -72px;
+}
+
+.content h1 {
+    font-size: 25px;
+    margin: 9px 5px 18px 5px;
+}
+.content h2{
+	font-size: 16px;
+}
+.content p{
+	font-size: 14px;
+	margin: 12px 0px;
+}
+
+.image img{
+	display: none;
+}
+.s_icon li i {
+    font-size: 25px;
+    margin-right: 25px;
+}
+.features{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.f_h1{
+	font-size: 25px;
+}
+.f_h2{
+   font-size: 17px;
+    line-height: 22px;
+    letter-spacing: 0;
+    word-spacing: 0;
+}
+.m_70{
+	margin-top: 30px;
+}
+.f_content{
+	text-align: center;
+	letter-spacing: 0;
+}
+.contact{
+	padding-top: 50px;
+}
+.email{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.c_icon a i{
+	font-size:35px;
+	margin-right: 10px;
+
+}
+.last{
+	margin-right: 0px !important ;
+}
+.ls{
+	line-height: 5px;
+	margin-bottom: 30px;
+}
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+     
+              /* header start */
+	.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+}
+/* header end */
+.slider{
+	padding-top:0px;
+}
+.image img{
+	display: none;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+         /* header start */
+	.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+}
+/* header end */
+
+.content{
+	margin-top: -65px;
+}
+.s_icon li i{
+	font-size: 40px;
+}
+.slider{
+	padding: 50px;
+}
+.carind{
+	bottom: -70px;
+
+}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+@media (min-width: 1200px) {
+
+.image img{
+    margin:0px 0px 0px 60px; 
+}
+
+}
